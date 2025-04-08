@@ -1,1 +1,1 @@
-# Coloes/ Clase 5
+# Colores/ Clase 5
